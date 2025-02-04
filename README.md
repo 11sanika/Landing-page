@@ -1,6 +1,6 @@
 # Landing-page
 📌 Overview
-This project is a responsive landing page for a travel agency, built using HTML, CSS, and JavaScript. The webpage showcases stunning travel destinations, services, and contact details to engage potential travelers.
+This project is a responsive landing page for a travel agency, built using HTML, CSS. The webpage showcases stunning travel destinations, services, and contact details to engage potential travelers.
 
 🎯 Features
 ✅ Beautiful and engaging UI design
@@ -12,5 +12,4 @@ This project is a responsive landing page for a travel agency, built using HTML,
 
 🛠️ Technologies Used
 HTML – Structure of the webpage
-CSS – Styling and responsiveness
-JavaScript – Interactive elements and animations
+CSS – Styling and responsiveness.
